@@ -22,3 +22,4 @@ Story <br/>
 ![storypic](Resources/storypic.png)<br/>
 
 ## Summary
+[link to dashboard]("https://public.tableau.com/app/profile/brian.scherping/viz/ChallengeProblem/UserTripsbyGender?publish=yes")
