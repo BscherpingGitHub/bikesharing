@@ -22,11 +22,14 @@ We can see from the graph most of the bike users are subscribers rather than cus
 This shows how many of the bike need repairs.
 7. This is a graph of Bike Utilization <br/>
 ![bikeutilization](Resources/bikeutilization.png)<br/>
-This shows how many of the bikes get used. They seem to be used evenly across the board. 
-Story <br/>
+This shows how many of the bikes get used. They seem to be used evenly across the board. <br/>
+# Story 
 ![storypic](Resources/storypic.png)<br/>
 This give a side by side representation of the graphs 1, 2, 4, 5
 
 ## Summary
-The results show that this would be a good investment. Des Moines has a great small town presence. This bikes will allow people to make the small trips for in city activites. I would suggest they look into see what ages were on them. I track what destinations these bikes are going to. 
+The results show that this would be a good investment. Des Moines has a great small town presence. This bikes will allow people to make the small trips for in city activites.
+Two visualiztions I would suggest are:
+1. Look into see what ages were riding the bikes
+2. Track what stores or facilites the bikers visited the most. 
 [link to dashboard](https://public.tableau.com/app/profile/brian.scherping/viz/ChallengeProblem/UserTripsbyGender?publish=yes)
