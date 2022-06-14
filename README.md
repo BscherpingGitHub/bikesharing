@@ -16,10 +16,17 @@ We can see the bike are used early in the morning from 7AM to 9AM and 4PM to 7PM
 This graph shows similar results from the number 2 graph that men ride more. Also it matches number 4 graph on when bikes are used. <br/>
 5. This is a graph of User Trips by Gender by Weekday <br/>
 ![Pic5](Resources/Pic5.png)<br/>
-We can see from the graph most of the bike users are subscribers rather than customers. 
-
+We can see from the graph most of the bike users are subscribers rather than customers. <br/>
+6. This is a graph of Bike Repairs <br/>
+![bikerepair](Resources/bikerepair.png)<br/>
+This shows how many of the bike need repairs.
+7. This is a graph of Bike Utilization <br/>
+![bikeutilization](Resources/bikeutilization.png)<br/>
+This shows how many of the bikes get used. They seem to be used evenly across the board. 
 Story <br/>
 ![storypic](Resources/storypic.png)<br/>
+This give a side by side representation of the graphs 1, 2, 4, 5
 
 ## Summary
+The results show that this would be a good investment. Des Moines has a great small town presence. This bikes will allow people to make the small trips for in city activites. I would suggest they look into see what ages were on them. I track what destinations these bikes are going to. 
 [link to dashboard](https://public.tableau.com/app/profile/brian.scherping/viz/ChallengeProblem/UserTripsbyGender?publish=yes)
