@@ -32,4 +32,5 @@ The results show that this would be a good investment. Des Moines has a great sm
 Two visualiztions I would suggest are:
 1. Look into see what ages were riding the bikes
 2. Track what stores or facilites the bikers visited the most. 
-[link to dashboard](https://public.tableau.com/app/profile/brian.scherping/viz/ChallengeProblem/UserTripsbyGender?publish=yes)
+<br/>
+[link to my tableau dashboard](https://public.tableau.com/app/profile/brian.scherping/viz/ChallengeProblem/UserTripsbyGender?publish=yes)
